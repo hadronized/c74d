@@ -1,7 +1,11 @@
 [package]
 name = "c74d"
-version = "0.1.0"
+version = "0.1.1"
 license = "BSD-3-Clause"
 description = "c74d"
 keywords = ["useless"]
+homepage = "https://github.com/phaazon/c74d"
+repository = "https://github.com/phaazon/c74d"
+documentation = "https://docs.rs/c74d"
 edition = "2021"
+rust-version = "1.56.0"
